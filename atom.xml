@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>分别是一件难事</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-01-02T09:16:39.158Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>到上海了</title>
+    <link href="http://example.com/2023/12/31/12-31/"/>
+    <id>http://example.com/2023/12/31/12-31/</id>
+    <published>2023-12-31T13:27:20.000Z</published>
+    <updated>2024-01-02T09:16:39.158Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;到上海了&lt;br&gt;发了个短信给她&lt;br&gt;然后去医院&lt;br&gt;今年的博客到此结束&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>来的肯定不是她</title>
+    <link href="http://example.com/2023/12/29/12-29/"/>
+    <id>http://example.com/2023/12/29/12-29/</id>
+    <published>2023-12-29T15:30:20.000Z</published>
+    <updated>2024-01-02T09:15:22.179Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;扛不住了&lt;br&gt;得去医院了&lt;br&gt;云南的医院是有点差在身上的&lt;br&gt;等了一个多小时&lt;br&gt;可恶&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>来的肯定不是她</title>
+    <link href="http://example.com/2023/12/28/12-28-2/"/>
+    <id>http://example.com/2023/12/28/12-28-2/</id>
+    <published>2023-12-28T15:43:20.000Z</published>
+    <updated>2024-01-02T09:15:11.137Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;到宾馆了&lt;br&gt;刚刚又去洱海看日落&lt;br&gt;发了个puq&lt;br&gt;不过她不关心&lt;br&gt;有点失落诶&lt;br&gt;无所谓我会睡觉&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模糊之间好像她来了</title>
+    <link href="http://example.com/2023/12/28/12-28/"/>
+    <id>http://example.com/2023/12/28/12-28/</id>
+    <published>2023-12-27T18:13:20.000Z</published>
+    <updated>2024-01-02T09:11:55.516Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;现在是凌晨2点&lt;br&gt;发生灵异事件？？？&lt;br&gt;啊啊啊&lt;br&gt;原来是做梦&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有点烧啊我</title>
+    <link href="http://example.com/2023/12/27/12-27/"/>
+    <id>http://example.com/2023/12/27/12-27/</id>
+    <published>2023-12-27T11:30:20.000Z</published>
+    <updated>2024-01-02T09:15:05.700Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;做完扎染小兔了&lt;br&gt;有点丑&lt;br&gt;不过看我针线如此娴熟&lt;br&gt;这件简直跻身艺术品&lt;br&gt;哈哈哈&lt;br&gt;刚看完日落&lt;br&gt;突然身体极度不适&lt;br&gt;我是不是应该去医院了？&lt;br&gt;发烧直接吃感康&lt;br&gt;康门永存&lt;br&gt;感觉能看见小人？？？&lt;br&gt;哈哈哈烧的&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>菌子鸡好吃</title>
+    <link href="http://example.com/2023/12/26/12-26/"/>
+    <id>http://example.com/2023/12/26/12-26/</id>
+    <published>2023-12-26T15:41:20.000Z</published>
+    <updated>2024-01-02T09:16:49.936Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;坏了&lt;br&gt;好像有点发烧&lt;br&gt;但是又感觉还好&lt;br&gt;先不管了&lt;br&gt;应该小问题吧？&lt;br&gt;今天吃了个菌子火锅&lt;br&gt;好吃！！！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>带酒去洱海嘿嘿</title>
+    <link href="http://example.com/2023/12/25/12-25/"/>
+    <id>http://example.com/2023/12/25/12-25/</id>
+    <published>2023-12-25T12:53:20.000Z</published>
+    <updated>2024-01-02T09:16:49.951Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;到大理了&lt;br&gt;坐死我了&lt;br&gt;不过还是没说出口&lt;br&gt;没见到她&lt;br&gt;那我就一个人看看洱海月吧&lt;br&gt;带瓶酒嘿嘿&lt;br&gt;冲！！！！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最后安顺一个晚上了</title>
+    <link href="http://example.com/2023/12/23/12-23/"/>
+    <id>http://example.com/2023/12/23/12-23/</id>
+    <published>2023-12-23T15:42:20.000Z</published>
+    <updated>2024-01-02T09:06:10.059Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;下一站去云南了&lt;br&gt;要不要跟她说一下&lt;br&gt;我来了安顺呢&lt;br&gt;至少见一面&lt;br&gt;犹豫犹豫&lt;br&gt;不敢发消息&lt;br&gt;怎么跟个妇人一样？？？（没有性别歧视&lt;br&gt;好烦啊&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不想出门</title>
+    <link href="http://example.com/2023/12/22/12-22/"/>
+    <id>http://example.com/2023/12/22/12-22/</id>
+    <published>2023-12-22T15:42:20.000Z</published>
+    <updated>2024-01-02T09:04:44.392Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;想逛逛&lt;br&gt;但是不想出门&lt;br&gt;那我来这里干嘛？&lt;br&gt;安睡&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>到安顺了</title>
+    <link href="http://example.com/2023/12/21/12-21-2/"/>
+    <id>http://example.com/2023/12/21/12-21-2/</id>
+    <published>2023-12-21T13:34:20.000Z</published>
+    <updated>2024-01-02T09:03:00.838Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;到安顺了&lt;br&gt;要不要告诉她呢&lt;br&gt;想了一下&lt;br&gt;告诉她的话&lt;br&gt;可能反而不好吧&lt;br&gt;就这样吧&lt;br&gt;今天也去大润发逛了逛&lt;br&gt;之前给的满20-19的券都没用&lt;br&gt;看我狠薅！&lt;br&gt;嗯，我就是为了这券来的贵州！！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我好菜啊</title>
+    <link href="http://example.com/2023/12/21/12-21/"/>
+    <id>http://example.com/2023/12/21/12-21/</id>
+    <published>2023-12-20T17:34:20.000Z</published>
+    <updated>2024-01-02T09:00:26.072Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;到贵阳酒店了&lt;br&gt;随便吃了点贵州烧烤&lt;br&gt;给我嘴巴辣肿了&lt;br&gt;越来越菜了&lt;br&gt;吃完的话就肚子疼&lt;br&gt;可恶&lt;br&gt;越来越菜了&lt;br&gt;她在做什么呢？&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这几天</title>
+    <link href="http://example.com/2023/12/20/12-20/"/>
+    <id>http://example.com/2023/12/20/12-20/</id>
+    <published>2023-12-19T18:34:20.000Z</published>
+    <updated>2024-01-02T08:58:19.703Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;回学校三四天了&lt;br&gt;在经世书局看了几天书&lt;br&gt;困乏如常&lt;br&gt;去一趟贵州吧&lt;br&gt;今天出发&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>喝多了，躺下！</title>
+    <link href="http://example.com/2023/12/15/2-5/"/>
+    <id>http://example.com/2023/12/15/2-5/</id>
+    <published>2023-12-14T18:34:20.000Z</published>
+    <updated>2024-01-02T08:56:52.155Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;喝多多&lt;br&gt;烤火火&lt;br&gt;我错错&lt;br&gt;她漠漠&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>纵使有花兼有月，可堪无酒又无人</title>
+    <link href="http://example.com/2023/12/14/12-14-2/"/>
+    <id>http://example.com/2023/12/14/12-14-2/</id>
+    <published>2023-12-14T14:19:20.000Z</published>
+    <updated>2024-01-02T08:54:44.581Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;全在题目里面了&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>祈个福</title>
+    <link href="http://example.com/2023/12/13/12-14/"/>
+    <id>http://example.com/2023/12/13/12-14/</id>
+    <published>2023-12-13T14:19:20.000Z</published>
+    <updated>2024-01-02T08:53:48.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天去了当地的一个小寺庙&lt;br&gt;祈求了平安健康&lt;br&gt;希望她和她的家人也如此&lt;br&gt;走走停停&lt;br&gt;我果然还是喜欢山和水&lt;br&gt;乘坐扶梯我上了一座当地的山&lt;br&gt;山上有人专门给人拍照&lt;br&gt;我想去拍一个的时候&lt;br&gt;突然转念一想&lt;br&gt;没有她，拍出来又什么意思呢&lt;br&gt;遂下</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>到千岛湖</title>
+    <link href="http://example.com/2023/12/12/12-13/"/>
+    <id>http://example.com/2023/12/12/12-13/</id>
+    <published>2023-12-12T15:17:20.000Z</published>
+    <updated>2024-01-02T08:53:45.531Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;到千岛湖了&lt;br&gt;看看这片湖能不能让我舒心一会儿吧&lt;br&gt;明天早上小小去爬个山，祈个福&lt;br&gt;好困好困&lt;br&gt;模糊之间又有她的影子&lt;br&gt;她来了该多好&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>去千岛湖吧</title>
+    <link href="http://example.com/2023/12/12/12-12/"/>
+    <id>http://example.com/2023/12/12/12-12/</id>
+    <published>2023-12-11T18:24:20.000Z</published>
+    <updated>2024-01-02T09:16:49.944Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;和昨天一样&lt;br&gt;想她了&lt;br&gt;今天出发去千岛湖&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>抽个风</title>
+    <link href="http://example.com/2023/12/11/12-11/"/>
+    <id>http://example.com/2023/12/11/12-11/</id>
+    <published>2023-12-10T20:33:20.000Z</published>
+    <updated>2024-01-02T09:16:49.932Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;失眠了&lt;br&gt;角落有包烟，可惜没有打火机一直没抽&lt;br&gt;芜湖，天不让我如此&lt;br&gt;不然就只能去阳台&lt;br&gt;风抽一下我&lt;br&gt;然后我抽风&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>终究还是失败了</title>
+    <link href="http://example.com/2023/12/10/12-10/"/>
+    <id>http://example.com/2023/12/10/12-10/</id>
+    <published>2023-12-10T15:17:20.000Z</published>
+    <updated>2024-01-02T08:44:28.163Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我推掉了之后的让我做的所有活动&lt;br&gt;打算去散散心&lt;br&gt;虽然谈不上是外界让我失去了她&lt;br&gt;但是总觉得如果没有这个外界&lt;br&gt;可能我会自洽得更好&lt;br&gt;人和人相处的话&lt;br&gt;处处是麻烦&lt;br&gt;我能如何预见下一个麻烦是什么呢&lt;br&gt;倘若是和她相处&lt;br&gt;那种麻烦因为有爱这种</summary>
+        
+      
+    
+    
+    
+    
+    <category term="难事" scheme="http://example.com/tags/%E9%9A%BE%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>好吧，听到她的声音了，也听到她哭了</title>
+    <link href="http://example.com/2023/12/09/12-9/"/>
+    <id>http://example.com/2023/12/09/12-9/</id>
+    <published>2023-12-08T19:42:20.000Z</published>
+    <updated>2024-01-02T08:39:36.667Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;只能说，听到了她的声音&lt;br&gt;HRV值又好起来了&lt;br&gt;她还是没怎么变&lt;br&gt;但我感觉我变了好多&lt;br&gt;变得有点冷漠&lt;br&gt;变得听到她的声音无所适从&lt;br&gt;但也有没变的&lt;br&gt;听到她的声音还是会心疼&lt;br&gt;听到她哭我也会哭&lt;br&gt;想她了&lt;br&gt;可能没有一天不想吧&lt;br&gt;变的</summary>
+        
+      
+    
+    
+    
+    
+    <category term="幸福日常" scheme="http://example.com/tags/%E5%B9%B8%E7%A6%8F%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+</feed>
